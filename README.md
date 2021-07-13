@@ -50,7 +50,7 @@ Backend
 [Modeling](https://aquerytool.com:443/aquerymain/index/?rurl=8afb35f3-b4f6-4dd1-aae2-b0497e086eeb)*(Password : 723o35)*
 
 **시연 영상**    
-Wesop (시연 영상 첨부 )
+[Wesop](https://www.youtube.com/watch?v=hBos343-pk8&t=10s)
 
 <br>
 
