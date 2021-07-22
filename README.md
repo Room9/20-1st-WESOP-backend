@@ -6,11 +6,13 @@
 
 ## 프로젝트 기간 및 인원
 
+**[기간]**  
 2021.05.10 ~ 2021.05.21
 
 
 <br>
 
+**[인원]**  
 Frontend  
 - [김도은](https://github.com/dosilv)
 - [김휘성](https://github.com/Heessong)
@@ -23,7 +25,6 @@ Backend
 <br>
 
 ## 프로젝트 
-
 - Frontend
   - 메인 페이지
   - 상품 리스트
@@ -43,7 +44,6 @@ Backend
     - 인기 상품 리스트
     - 장바구니
     - 구매 내역 확인  
-
 <br>
 
 **Modeling**   
@@ -51,7 +51,6 @@ Backend
 
 **시연 영상**    
 [Wesop](https://www.youtube.com/watch?v=hBos343-pk8&t=10s)
-
 <br>
 
 ## Frontend 
@@ -63,7 +62,6 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
 백앤드와 JWT 통신, (회원인증, 정보교류) access_Token.  
 로컬 스토리지,세션 스토리지, 쿠키 사용.  
 - 사용법_상세페이지 : 레이아웃 UI 구현 및 fetch GET을 통해 서버에서 제품의 정보 데이터 받아오기.
-
 <br>
 
 🧴 **김도은**
@@ -74,7 +72,6 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
   - 상품 이미지 Carousel
   - 카테고리 :오른쪽_화살표: 상품리스트 :오른쪽_화살표: 상세 페이지 동적 라우팅
   - 상품 검색 기능
-  
 <br>
 
 🛀 **김휘성**
@@ -87,7 +84,6 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
   -  마우스 포인팅에 따른 카트추가버튼 활성,비활성화
 - 카트추가 기능 
   - 백엔드와의 통신을통해 jwt토큰 유무 확인후 fetch API의 post를 사용하여 버튼을 클릭하면 해당 상품의 데이터를 백엔드 서버로 데이터전송
-
 <br>
 
 ## Backend
@@ -103,8 +99,6 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
     <br>상품명에 검색어가 포함된 상품들의 데이터를 전송
   - 인기 상품 리스트 : 인기 상품 추천
     <br>상품 상세 페이지 조회수를 기준으로 상위 5개 인기 상품의 데이터를 전송
-    
-
 <br>
 
 🧼 **문성호**
@@ -114,9 +108,7 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
   - 로그인 필수요소(계정 email,계정 pw) 유효성 판단:정규 표현식 활용
   - 장바구니 상품 추가 삭제 수정 조회:endpoint 통일,http method와 path parameter를 통한 request 구현
   - 구매전환 및 구매내역:구매 전환 시, 장바구니 상품 삭제 및 구매 내역 추가
-
 <br>
-
 
 ## Skills
 
