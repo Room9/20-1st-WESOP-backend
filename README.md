@@ -1,10 +1,10 @@
-# Team Wesop
+# 🧴 Team Wesop
 
 - 스킨케어 브랜드 이솝을 벤치마킹
-- 12일이라는 짧은 기간 동안 기획, 디자인에 소요되는 시간을 단축시키고 화면 & 기능 구현과 리팩토링에 중점을 두기 위한 1차 클론코딩 프로젝트
+- 기획, 디자인에 소요되는 시간을 단축시키고 화면 & 기능 구현과 리팩토링에 중점을 두기 위한 1차 클론코딩 프로젝트
 <br>
 
-## 프로젝트 기간 및 인원
+## 👀 프로젝트 기간 및 인원
 
 **[기간]**  
 2021.05.10 ~ 2021.05.21
@@ -53,7 +53,7 @@ Backend
 [Wesop](https://www.youtube.com/watch?v=hBos343-pk8&t=10s)
 <br>
 
-## Frontend 
+## 🖥 Frontend 
 
 🧼 **최원근**
 - Authentication (인증 : 로그인, 회원가입)
@@ -86,7 +86,7 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
   - 백엔드와의 통신을통해 jwt토큰 유무 확인후 fetch API의 post를 사용하여 버튼을 클릭하면 해당 상품의 데이터를 백엔드 서버로 데이터전송
 <br>
 
-## Backend
+## 🌈 Backend
 
 🧴 **양미화**
   - 상품 리스트 : 메뉴별 혹은 카테고리별 상품 리스트
@@ -110,7 +110,7 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
   - 구매전환 및 구매내역:구매 전환 시, 장바구니 상품 삭제 및 구매 내역 추가
 <br>
 
-## Skills
+## 🛠 Skills
 
 ### Frontend
 <ul>
@@ -125,7 +125,7 @@ UI 애니메이션 적용하여 생동감 표현 ( :focus-within, @keyframes ).
 </ul>
 
 
-### 협업 tool
+### 🤝 협업 tool
 
 <ul>
 <li>
